@@ -1,0 +1,17 @@
+{
+  "name": "ppt-view",
+  "version": "0.0.0",
+  "homepage": "https://github.com/shettyashwitha/ppt-views",
+  "authors": [
+    "shettyashwitha <shettyashwitha97@gmail.com>"
+  ],
+  "description": "dfs",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
